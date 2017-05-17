@@ -33,5 +33,6 @@ public static void main(String[] args) {
     for(Book b:list){  
     System.out.println(b.id+" "+b.name+" "+b.author+" "+b.publisher+" "+b.quantity);  
     }  
+    System.out.println("completed");
 }  
 }  
